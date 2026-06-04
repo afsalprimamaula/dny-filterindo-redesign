@@ -2,6 +2,7 @@ import React from 'react';
 import Header from './components/Header';
 import HeroSection from './components/HeroSection';
 import ClientsSection from './components/ClientsSection';
+import FeaturesSection from './components/FeaturesSection';
 
 function App() {
   return (
