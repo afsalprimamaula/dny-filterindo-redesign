@@ -1,6 +1,7 @@
 import React from 'react';
 import Header from './components/Header';
-import TopBar from './components/TopBar'; // Import TopBar
+import TopBar from './components/TopBar'; 
+import Hero from './components/Hero'
 
 function App() {
   return (
