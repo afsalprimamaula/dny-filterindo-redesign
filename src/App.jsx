@@ -1,5 +1,6 @@
 import React from 'react';
 import Header from './components/Header';
+import AboutSection from './components/AboutSection';
 import HeroSection from './components/HeroSection';
 import ClientsSection from './components/ClientsSection';
 import FeaturesSection from './components/FeaturesSection';
@@ -14,6 +15,7 @@ function App() {
       <Header />
       <main className="flex-grow">
         <HeroSection />
+        <AboutSection />
         <ClientsSection />
         <FeaturesSection />
         <ProductCatalogSection />

@@ -10,21 +10,15 @@ const Header = () => {
       {/* --- TOP BAR --- */}
       <div className="bg-blue-900 text-white py-2 px-8 flex flex-col md:flex-row justify-between items-center text-sm">
         <div className="flex gap-6">
-          <a href="#" className="flex items-center gap-2 hover:text-gray-300 transition-colors">
-            <Phone size={14} />
-            <span>+62 123 456 789</span>
-          </a>
-          <a href="#" className="flex items-center gap-2 hover:text-gray-300 transition-colors">
-            <Mail size={14} />
-            <span>info@dnyfilterindo.com</span>
-          </a>
+            {/* ... (kode telepon & email) ... */}
         </div>
         <div className="flex gap-6 mt-2 md:mt-0">
-          <a href="#" className="hover:text-gray-300 transition-colors">About</a>
-          <a href="#" className="hover:text-gray-300 transition-colors">Careers</a>
-          <a href="#" className="hover:text-gray-300 transition-colors">Contact</a>
+            {/* Ubah href="#" menjadi href="#about" */}
+            <a href="#about" className="hover:text-gray-300 transition-colors">About</a>
+            <a href="#" className="hover:text-gray-300 transition-colors">Careers</a>
+            <a href="#" className="hover:text-gray-300 transition-colors">Contact</a>
         </div>
-      </div>
+    </div>
 
       {/* --- MAIN NAVBAR --- */}
       <div className="bg-white py-4 px-8 flex justify-between items-center shadow-md">

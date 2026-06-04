@@ -4,3 +4,7 @@
   --color-dny-blue: #0a3265;
   --color-dny-light: #f8f9fa;
 }
+
+html {
+  scroll-behavior: smooth;
+}
