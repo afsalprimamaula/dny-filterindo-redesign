@@ -10,7 +10,7 @@ const ContactCTASection = () => {
   ];
 
   return (
-    <section className="bg-[#0a2540] py-16 md:py-24 font-sans">
+    <section id="contact" className="bg-[#0a2540] py-16 md:py-24 font-sans">
       <div className="max-w-7xl mx-auto px-4 lg:px-8">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center">
           
