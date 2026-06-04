@@ -5,7 +5,7 @@ import ClientsSection from './components/ClientsSection';
 import FeaturesSection from './components/FeaturesSection';
 import ProductCatalogSection from './components/ProductCatalogSection';
 import ContactCTASection from './components/ContactCTASection';
-import Footer from './components/Footer';
+
 
 function App() {
   return (
@@ -18,7 +18,6 @@ function App() {
         <ProductCatalogSection />
         <ContactCTASection />
       </main>
-      <Footer />
     </div>
   );
 }
