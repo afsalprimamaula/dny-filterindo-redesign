@@ -8,15 +8,10 @@ const AboutSection = () => {
         
         {/* Who We Are Section */}
         <div className="mb-20">
-          <h2 className="text-3xl md:text-4xl font-bold text-blue-900 mb-6">Who We Are</h2>
+          <h2 className="text-3xl md:text-4xl font-bold text-blue-900 mb-6">PT. Denayu Filterindo Teknik</h2>
           <div className="h-1 w-20 bg-blue-900 mb-8"></div>
           <p className="text-gray-600 leading-relaxed text-lg max-w-4xl">
-            DNY FILTERINDO stands at the forefront of industrial filtration solutions in Southeast Asia. 
-            We specialize in advanced oil purification and dust collection systems designed to enhance 
-            operational efficiency. By combining cutting-edge technology with deep industry expertise, 
-            we empower our clients to optimize their processes, reduce downtime, and ensure environmental 
-            compliance. We are trusted by industry leaders to deliver reliability, precision, and 
-            high-performance results when it matters most.
+            Welcome to PT. Denayu Filterindo Teknik, your reliable partner in providing high-quality air and water filtration systems, including solutions for wastewater treatment. Committed to supporting sustainability and operational efficiency, we serve a wide range of industries, including manufacturing plants and hospitals, with products tailored to meet your specific needs.
           </p>
         </div>
 
@@ -32,8 +27,7 @@ const AboutSection = () => {
               <h3 className="text-2xl font-bold text-blue-900">Our Vision</h3>
             </div>
             <p className="text-gray-700 italic text-lg leading-relaxed">
-              "To be the premier partner for industrial filtration and contamination control solutions across 
-              Southeast Asia, recognized for our commitment to innovation, sustainability, and operational excellence."
+              "To become the leading provider of filtration solutions that enhance operational efficiency, health, and environmental sustainability across industries in Indonesia."
             </p>
           </div>
 
@@ -50,15 +44,15 @@ const AboutSection = () => {
               <ul className="space-y-3">
                 <li className="flex gap-3">
                   <Icons.Award size={20} className="text-blue-900 mt-1 flex-shrink-0" />
-                  <span><strong>Technological Excellence:</strong> Delivering high-performance filtration technologies that maximize system efficiency.</span>
+                  <span><strong>Technological Excellence:</strong> To deliver premium filtration products that are efficient, durable, and eco-friendly.</span>
                 </li>
                 <li className="flex gap-3">
                   <Icons.Award size={20} className="text-blue-900 mt-1 flex-shrink-0" />
-                  <span><strong>Customized Solutions:</strong> Providing expert technical guidance tailored to unique operational challenges.</span>
+                  <span><strong>Customized Solutions:</strong> To provide exceptional service supported by a team of experts and cutting-edge technology.</span>
                 </li>
                 <li className="flex gap-3">
                   <Icons.Award size={20} className="text-blue-900 mt-1 flex-shrink-0" />
-                  <span><strong>Enduring Partnerships:</strong> Fostering long-term relationships built on trust and uncompromising safety standards.</span>
+                  <span><strong>Enduring Partnerships:</strong> To meet industrial and healthcare needs with innovative solutions focused on performance and sustainability.</span>
                 </li>
               </ul>
             </div>
