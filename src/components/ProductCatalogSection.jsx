@@ -7,74 +7,74 @@ const ProductCatalogSection = () => {
     {
       id: 1,
       category: "OIL PURIFICATION",
-      title: "High-Flow Vacuum Purifier",
+      title: "OIL FILTER &FILTER ELEMENT",
       description: "Advanced vacuum dehydration system designed to remove water, gas, and particulate contamination from industrial oils efficiently.",
       features: [
         "Flow rate capacity up to 100 L/min",
         "Removes 100% of free & emulsified water",
         "Achieves ISO 14/12/9 cleanliness levels"
       ],
-      image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=800&q=80"
+      image: "https://dny-filterindo.co.id/wp-content/uploads/2020/08/Oil-Filter-Filter-Element.jpeg"
     },
     {
       id: 2,
       category: "DUST COLLECTION",
-      title: "Industrial Cartridge Collector",
+      title: "Air Inlet Filter & Compressor Filter",
       description: "High-efficiency cartridge dust collector engineered for continuous operation in heavy dust load environments.",
       features: [
         "99.9% filtration efficiency down to 0.5 microns",
         "Automatic pulse-jet cleaning system",
         "Heavy-duty carbon steel construction"
       ],
-      image: "https://images.unsplash.com/photo-1530124566582-a618bc2615dc?auto=format&fit=crop&w=800&q=80"
+      image: "https://dny-filterindo.co.id/wp-content/uploads/2020/08/Air-Inlet-Filter-Compressor-Filter.jpeg"
     },
     {
       id: 3,
       category: "MOBILE FILTRATION",
-      title: "Portable Filter Cart",
+      title: "HEPA/ULPA SERIES",
       description: "Versatile off-line filtration unit ideal for transferring fluids, polishing existing oil, and cleaning up targeted systems.",
       features: [
         "Dual-stage high-capacity filtration",
         "Compact and highly mobile design",
         "Optional built-in laser particle counter"
       ],
-      image: "https://images.unsplash.com/photo-1581092160562-40aa08e78837?auto=format&fit=crop&w=800&q=80"
+      image: "https://dny-filterindo.co.id/wp-content/uploads/2024/01/cleanfilter_1.png"
     },
     {
       id: 4,
       category: "OIL PURIFICATION",
-      title: "Coalescence Separation Purifier",
+      title: "HDust Collector",
       description: "Highly effective for removing large amounts of free water and particulate matter from turbine and lubricating oils without affecting additives.",
       features: [
         "Continuous unattended operation",
         "High dirt-holding capacity",
         "Low operational maintenance cost"
       ],
-      image: "https://images.unsplash.com/photo-1611075677053-157945d8b809?auto=format&fit=crop&w=800&q=80"
+      image: "https://dny-filterindo.co.id/wp-content/uploads/2024/01/dust-collectors.png"
     },
     {
       id: 5,
       category: "DUST COLLECTION",
-      title: "Heavy-Duty Baghouse Filter",
+      title: "HDust Collector",
       description: "Robust baghouse filtration system designed to capture large volumes of hazardous industrial dust and chemical fumes.",
       features: [
         "High-temperature gas resistance",
         "Advanced sequential cleaning timer",
         "Customizable filter media options"
       ],
-      image: "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?auto=format&fit=crop&w=800&q=80"
+      image: "https://dny-filterindo.co.id/wp-content/uploads/2020/08/Oil-Purifier.jpeg"
     },
     {
       id: 6,
       category: "SYSTEM COMPONENTS",
-      title: "Replacement Filter Elements",
+      title: "OIL PURIFIER",
       description: "Premium replacement filter cartridges, bags, and housing units engineered to fit and upgrade all major industrial filtration brands.",
       features: [
         "Micro-glass and synthetic media",
         "High collapse pressure rating",
         "Extended service life guarantees"
       ],
-      image: "https://images.unsplash.com/photo-1570733857597-9e63ce820712?auto=format&fit=crop&w=800&q=80"
+      image: "https://dny-filterindo.co.id/wp-content/uploads/2020/08/Oil-Purifier.jpeg"
     }
   ];
 
