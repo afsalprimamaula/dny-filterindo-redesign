@@ -7,12 +7,11 @@ function App() {
   return (
     <div className="min-h-screen flex flex-col bg-gray-50">
       
-      {/* Cukup panggil Header saja karena Top Bar biru sudah menyatu di dalamnya */}
       <Header />
       
-      {/* Panggil komponen HeroSection yang baru dibuat */}
       <main className="flex-grow">
         <HeroSection />
+        <ClientsSection />
       </main>
       
     </div>
